@@ -14,4 +14,4 @@ Additional Files:
 [PanZoomSwitch](https://www.thingiverse.com/thing:4222606)
 
 
-[https://www.thingiverse.com/thing:4373531](G1000 Knobs and Dual Rotary Encoder by FlightSimMaker on Thingiverse)
+[https://www.thingiverse.com/thing:4373531](G1000-Knobs-and-Dual-Rotary-Encoder-by-FlightSimMaker-on-Thingiverse)

@@ -9,7 +9,7 @@ The Bezel is 3d printed with an Prusa XL
 
 ## The design has some issues but with some knowledge in electronics you could get it to work.
 
-#Additional Files:
+# Additional Files:
 
 G1000 Pan Zoom switch by FlightSimMaker on Thingiverse: 
 (https://www.thingiverse.com/thing:4222606

@@ -7,7 +7,7 @@ The Bezel is 3d printed with an Prusa XL
 
 ##I had some power issues with my design so i had to implement an level converter and split the power lines from ESP32, Arduino and the other electronics. This is not implemented in the Schematic and PCB, yet.
 
-## The design has some issues but with some knowledge in electronics you could get it to work.
+## The design has some issues but with some knowledge in electronics you could get it to work. This is nothing for a beginner in electronics!
 
 # Additional Files:
 

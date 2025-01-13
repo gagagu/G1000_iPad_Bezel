@@ -11,7 +11,6 @@ The Bezel is 3d printed with an Prusa XL
 
 Additional Files:
 
-[PanZoomSwitch](https://www.thingiverse.com/thing:4222606)
+G1000 Pan Zoom switch by FlightSimMaker on Thingiverse: (https://www.thingiverse.com/thing:4222606
 
-
-(G1000-Knobs-and-Dual-Rotary-Encoder-by-FlightSimMaker-on-Thingiverse)[https://www.thingiverse.com/thing:4373531]
+G1000 Knobs and Dual Rotary Encoder by FlightSimMaker on Thingiverse: (https://www.thingiverse.com/thing:4373531]

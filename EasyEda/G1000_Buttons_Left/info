@@ -1,0 +1,336 @@
+{
+  "uuid": "a165042caf1e1c5e723c970193ec66d7",
+  "path": "Offline/G1000_Buttons_Left",
+  "name": "G1000_Buttons_Left",
+  "content": "",
+  "created_at": "2024-03-31 11:56:18",
+  "updated_at": "2024-04-02 09:29:59",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "2e01fc0f003859861e2b40d512b21b66",
+      "title": "SCH_Buttons_Left",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f0bc163659d742bc8f021d00cdeb85b2": 12,
+        "1887914d3c8149949b568fc730189891": 1,
+        "3af05cf9765943fb88ddcf4a2c9fd153": 2,
+        "8fde53ebf99946c295add89ba9542a24": 12
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "VCC-GND-GND",
+          1,
+          "CONN-TH_3P-P2.50_HC-XH-3A-G",
+          "CON1",
+          {
+            "Contributor": "Мэтт Милер",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5341202",
+            "Manufacturer": "HCTL(华灿天禄)",
+            "Manufacturer Part": "HC-XH-3A-G",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "HC-XH-3A-G",
+            "puuid": "73aa71122c5a4268afd622a60b498939",
+            "uuid": "1887914d3c8149949b568fc730189891"
+          }
+        ],
+        [
+          "LSK1-6",
+          1,
+          "ARUN-CONN-TH_XH-6A",
+          "CON2",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C722879",
+            "Manufacturer": "CAX",
+            "Manufacturer Part": "XH-6A",
+            "Contributor": "LCSC",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "ARUN-CONN-TH_XH-6A",
+            "puuid": "67862fb3be57440db5a560bdc370a513",
+            "uuid": "3af05cf9765943fb88ddcf4a2c9fd153"
+          }
+        ],
+        [
+          "LSK7-12",
+          1,
+          "ARUN-CONN-TH_XH-6A",
+          "CON3",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C722879",
+            "Manufacturer": "CAX",
+            "Manufacturer Part": "XH-6A",
+            "Contributor": "LCSC",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "ARUN-CONN-TH_XH-6A",
+            "puuid": "67862fb3be57440db5a560bdc370a513",
+            "uuid": "3af05cf9765943fb88ddcf4a2c9fd153"
+          }
+        ],
+        [
+          "220",
+          12,
+          "R_AXIAL-0.4",
+          "R1,R2,R3,R4,R5,R6,R7,R8,R9,R10,R11,R12",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_AXIAL-0.4_EU",
+            "Manufacturer Part": "",
+            "puuid": "5905db98cde4487fbb177070aa85bbe1",
+            "uuid": "f0bc163659d742bc8f021d00cdeb85b2"
+          }
+        ],
+        [
+          "AP",
+          1,
+          "6X6_LED+PUSHBUTTON",
+          "U1",
+          {
+            "timeStamp": "1467803182",
+            "sourceId": "5viSsqoYV",
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "Aleix Ferrero",
+            "spiceSymbolName": "6X6_LED+PUSHBUTTON V2",
+            "Manufacturer Part": "",
+            "puuid": "4e638100ce1948159b5f2dd1e629d711",
+            "uuid": "8fde53ebf99946c295add89ba9542a24"
+          }
+        ],
+        [
+          "FD",
+          1,
+          "6X6_LED+PUSHBUTTON",
+          "U2",
+          {
+            "timeStamp": "1467803182",
+            "sourceId": "5viSsqoYV",
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "Aleix Ferrero",
+            "spiceSymbolName": "6X6_LED+PUSHBUTTON V2",
+            "Manufacturer Part": "",
+            "puuid": "4e638100ce1948159b5f2dd1e629d711",
+            "uuid": "8fde53ebf99946c295add89ba9542a24"
+          }
+        ],
+        [
+          "HDG",
+          1,
+          "6X6_LED+PUSHBUTTON",
+          "U3",
+          {
+            "timeStamp": "1467803182",
+            "sourceId": "5viSsqoYV",
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "Aleix Ferrero",
+            "spiceSymbolName": "6X6_LED+PUSHBUTTON V2",
+            "Manufacturer Part": "",
+            "puuid": "4e638100ce1948159b5f2dd1e629d711",
+            "uuid": "8fde53ebf99946c295add89ba9542a24"
+          }
+        ],
+        [
+          "ALT",
+          1,
+          "6X6_LED+PUSHBUTTON",
+          "U4",
+          {
+            "timeStamp": "1467803182",
+            "sourceId": "5viSsqoYV",
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "Aleix Ferrero",
+            "spiceSymbolName": "6X6_LED+PUSHBUTTON V2",
+            "Manufacturer Part": "",
+            "puuid": "4e638100ce1948159b5f2dd1e629d711",
+            "uuid": "8fde53ebf99946c295add89ba9542a24"
+          }
+        ],
+        [
+          "NAV",
+          1,
+          "6X6_LED+PUSHBUTTON",
+          "U5",
+          {
+            "timeStamp": "1467803182",
+            "sourceId": "5viSsqoYV",
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "Aleix Ferrero",
+            "spiceSymbolName": "6X6_LED+PUSHBUTTON V2",
+            "Manufacturer Part": "",
+            "puuid": "4e638100ce1948159b5f2dd1e629d711",
+            "uuid": "8fde53ebf99946c295add89ba9542a24"
+          }
+        ],
+        [
+          "VNV",
+          1,
+          "6X6_LED+PUSHBUTTON",
+          "U6",
+          {
+            "timeStamp": "1467803182",
+            "sourceId": "5viSsqoYV",
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "Aleix Ferrero",
+            "spiceSymbolName": "6X6_LED+PUSHBUTTON V2",
+            "Manufacturer Part": "",
+            "puuid": "4e638100ce1948159b5f2dd1e629d711",
+            "uuid": "8fde53ebf99946c295add89ba9542a24"
+          }
+        ],
+        [
+          "APR",
+          1,
+          "6X6_LED+PUSHBUTTON",
+          "U7",
+          {
+            "timeStamp": "1467803182",
+            "sourceId": "5viSsqoYV",
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "Aleix Ferrero",
+            "spiceSymbolName": "6X6_LED+PUSHBUTTON V2",
+            "Manufacturer Part": "",
+            "puuid": "4e638100ce1948159b5f2dd1e629d711",
+            "uuid": "8fde53ebf99946c295add89ba9542a24"
+          }
+        ],
+        [
+          "BC",
+          1,
+          "6X6_LED+PUSHBUTTON",
+          "U8",
+          {
+            "timeStamp": "1467803182",
+            "sourceId": "5viSsqoYV",
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "Aleix Ferrero",
+            "spiceSymbolName": "6X6_LED+PUSHBUTTON V2",
+            "Manufacturer Part": "",
+            "puuid": "4e638100ce1948159b5f2dd1e629d711",
+            "uuid": "8fde53ebf99946c295add89ba9542a24"
+          }
+        ],
+        [
+          "VS",
+          1,
+          "6X6_LED+PUSHBUTTON",
+          "U9",
+          {
+            "timeStamp": "1467803182",
+            "sourceId": "5viSsqoYV",
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "Aleix Ferrero",
+            "spiceSymbolName": "6X6_LED+PUSHBUTTON V2",
+            "Manufacturer Part": "",
+            "puuid": "4e638100ce1948159b5f2dd1e629d711",
+            "uuid": "8fde53ebf99946c295add89ba9542a24"
+          }
+        ],
+        [
+          "UP",
+          1,
+          "6X6_LED+PUSHBUTTON",
+          "U10",
+          {
+            "timeStamp": "1467803182",
+            "sourceId": "5viSsqoYV",
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "Aleix Ferrero",
+            "spiceSymbolName": "6X6_LED+PUSHBUTTON V2",
+            "Manufacturer Part": "",
+            "puuid": "4e638100ce1948159b5f2dd1e629d711",
+            "uuid": "8fde53ebf99946c295add89ba9542a24"
+          }
+        ],
+        [
+          "FLC",
+          1,
+          "6X6_LED+PUSHBUTTON",
+          "U11",
+          {
+            "timeStamp": "1467803182",
+            "sourceId": "5viSsqoYV",
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "Aleix Ferrero",
+            "spiceSymbolName": "6X6_LED+PUSHBUTTON V2",
+            "Manufacturer Part": "",
+            "puuid": "4e638100ce1948159b5f2dd1e629d711",
+            "uuid": "8fde53ebf99946c295add89ba9542a24"
+          }
+        ],
+        [
+          "DN",
+          1,
+          "6X6_LED+PUSHBUTTON",
+          "U12",
+          {
+            "timeStamp": "1467803182",
+            "sourceId": "5viSsqoYV",
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "Aleix Ferrero",
+            "spiceSymbolName": "6X6_LED+PUSHBUTTON V2",
+            "Manufacturer Part": "",
+            "puuid": "4e638100ce1948159b5f2dd1e629d711",
+            "uuid": "8fde53ebf99946c295add89ba9542a24"
+          }
+        ]
+      ],
+      "updateTime": 1712042999,
+      "createTime": 1711878978,
+      "histories": [],
+      "created_at": "2024-03-31 11:56:18",
+      "updated_at": "2024-04-02 09:29:59"
+    },
+    {
+      "uuid": "84a309cdedbabb41373b49568d1cb4e6",
+      "puuid": "a165042caf1e1c5e723c970193ec66d7",
+      "title": "PCB_G1000_Buttons_Left",
+      "filename": "PCB_G1000_Buttons_Left.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "73aa71122c5a4268afd622a60b498939": 1,
+        "67862fb3be57440db5a560bdc370a513": 2,
+        "5905db98cde4487fbb177070aa85bbe1": 12,
+        "4e638100ce1948159b5f2dd1e629d711": 12
+      },
+      "BOM": [],
+      "updateTime": 1711881794,
+      "createTime": 1711879234,
+      "histories": [],
+      "created_at": "2024-03-31 12:00:34",
+      "updated_at": "2024-03-31 12:43:14"
+    }
+  ],
+  "sort": [],
+  "title": "G1000_Buttons_Left",
+  "foldername": "G1000_Buttons_Left",
+  "schfilename": "G1000_Buttons_Left.json",
+  "schfilemtime": 1712042999185
+}

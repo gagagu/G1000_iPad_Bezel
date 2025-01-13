@@ -1,0 +1,84 @@
+{
+  "uuid": "bd0883e2fecd354c76ff642609c5b3da",
+  "path": "Offline/G1000_AudioPanel2",
+  "name": "G1000_AudioPanel2",
+  "content": "",
+  "created_at": "2024-05-06 13:09:50",
+  "updated_at": "2024-05-08 10:16:15",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "8e0a0329eddbd5e9948c55600c12ee8b",
+      "title": "SCH_AudioPanel2",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "8fde53ebf99946c295add89ba9542a24": 21,
+        "2ca7473967cf44f698d53187c3aefd77": 21,
+        "0a7b9e1d82194defa852d3d5474238e3": 42,
+        "52c49a4c0ea146fda442cc90fc726b0a": 2,
+        "7d79aaf5d79e4325be394c50a8755a73": 4
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "220Ω",
+          42,
+          "R0603",
+          "R1,R2,R3,R4,R5,R6,R7,R8,R9,R10,R11,R12,R13,R14,R15,R16,R17,R18,R19,R20,R21,R22,R23,R24,R25,R26,R27,R28,R29,R30,R31,R32,R33,R34,R35,R36,R37,R38,R39,R40,R41,R42",
+          {
+            "Contributor": "LCSC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C325537",
+            "Manufacturer": "Tyohm(幸亚电阻)",
+            "Manufacturer Part": "RMC04022205%N",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "RMC04022205%N",
+            "puuid": "fafd024f554e426eb74cf4a204aa88b0",
+            "uuid": "0a7b9e1d82194defa852d3d5474238e3"
+          }
+        ]
+      ],
+      "updateTime": 1715156158,
+      "createTime": 1714651904,
+      "histories": [],
+      "created_at": "2024-05-02 14:11:44",
+      "updated_at": "2024-05-08 10:15:58"
+    },
+    {
+      "uuid": "6a76fdf60401ab66138334890c9598fc",
+      "title": "PCB_G1000_AudioPanel2",
+      "filename": "PCB_G1000_AudioPanel2.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "a74ad15a041a485a9618cfb968dd749b": 4,
+        "111d9c4cff204f1aad7658d5ef171717": 21,
+        "4e638100ce1948159b5f2dd1e629d711": 21,
+        "e32269f0866f4b9fb0621bdf92f9ce05": 2,
+        "fafd024f554e426eb74cf4a204aa88b0": 42
+      },
+      "BOM": [],
+      "updateTime": 1715156175,
+      "createTime": 1714659833,
+      "histories": [],
+      "created_at": "2024-05-02 16:23:53",
+      "updated_at": "2024-05-08 10:16:15"
+    }
+  ],
+  "sort": [],
+  "title": "G1000_AudioPanel2",
+  "foldername": "G1000_AudioPanel2",
+  "schfilename": "G1000_AudioPanel2.json",
+  "schfilemtime": 1715156158075
+}

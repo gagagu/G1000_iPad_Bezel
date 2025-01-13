@@ -1,0 +1,485 @@
+{
+  "uuid": "66b33248170e1654a5f6b72b2c70a5c8",
+  "path": "Offline/G1000_Base",
+  "name": "G1000_Base",
+  "content": "",
+  "created_at": "2024-03-30 17:46:49",
+  "updated_at": "2024-06-23 17:18:12",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "4ca040b29fbba573376d66dc121d46c6",
+      "title": "G1000_Base",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "569c806101d942d7a6fa08c5bffefa37": 1,
+        "00ae413dc0674845a1debf07ff47833c": 1,
+        "3af05cf9765943fb88ddcf4a2c9fd153": 10,
+        "6e4d485fa41a4b99bcfbc7674a186a2e": 6,
+        "f6bb2f609c9345699e7145663412aaa5": 2,
+        "1887914d3c8149949b568fc730189891": 3,
+        "d87e9527db484ea38238a0e7323abd64": 3,
+        "f0bc163659d742bc8f021d00cdeb85b2": 6,
+        "52c49a4c0ea146fda442cc90fc726b0a": 1,
+        "f18ec571e21c49f7806eacfa3d7f080d": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "ALT",
+          1,
+          "ARUN-CONN-TH_XH-6A",
+          "CON1",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C722879",
+            "Manufacturer": "CAX",
+            "Manufacturer Part": "XH-6A",
+            "Contributor": "LCSC",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "ARUN-CONN-TH_XH-6A",
+            "puuid": "67862fb3be57440db5a560bdc370a513",
+            "uuid": "3af05cf9765943fb88ddcf4a2c9fd153"
+          }
+        ],
+        [
+          "CRS",
+          1,
+          "ARUN-CONN-TH_XH-6A",
+          "CON2",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C722879",
+            "Manufacturer": "CAX",
+            "Manufacturer Part": "XH-6A",
+            "Contributor": "LCSC",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "ARUN-CONN-TH_XH-6A",
+            "puuid": "67862fb3be57440db5a560bdc370a513",
+            "uuid": "3af05cf9765943fb88ddcf4a2c9fd153"
+          }
+        ],
+        [
+          "NAV",
+          1,
+          "ARUN-CONN-TH_XH-6A",
+          "CON3",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C722879",
+            "Manufacturer": "CAX",
+            "Manufacturer Part": "XH-6A",
+            "Contributor": "LCSC",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "ARUN-CONN-TH_XH-6A",
+            "puuid": "67862fb3be57440db5a560bdc370a513",
+            "uuid": "3af05cf9765943fb88ddcf4a2c9fd153"
+          }
+        ],
+        [
+          "CRS/BARO",
+          1,
+          "ARUN-CONN-TH_XH-6A",
+          "CON4",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C722879",
+            "Manufacturer": "CAX",
+            "Manufacturer Part": "XH-6A",
+            "Contributor": "LCSC",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "ARUN-CONN-TH_XH-6A",
+            "puuid": "67862fb3be57440db5a560bdc370a513",
+            "uuid": "3af05cf9765943fb88ddcf4a2c9fd153"
+          }
+        ],
+        [
+          "COM",
+          1,
+          "ARUN-CONN-TH_XH-6A",
+          "CON5",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C722879",
+            "Manufacturer": "CAX",
+            "Manufacturer Part": "XH-6A",
+            "Contributor": "LCSC",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "ARUN-CONN-TH_XH-6A",
+            "puuid": "67862fb3be57440db5a560bdc370a513",
+            "uuid": "3af05cf9765943fb88ddcf4a2c9fd153"
+          }
+        ],
+        [
+          "HDG",
+          1,
+          "ARUN-CONN-TH_XH-4A-1",
+          "CON6",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C192885",
+            "Manufacturer": "BOOMELE(博穆精密)",
+            "Manufacturer Part": "XH-4A绿色",
+            "link": "",
+            "JLCPCB Part Class": "Extended Part",
+            "Contributor": "LCSC",
+            "spiceSymbolName": "ARUN-CONN-TH_XH-4A",
+            "puuid": "a9f9914111584a5883ff6c2788d4de9e",
+            "uuid": "6e4d485fa41a4b99bcfbc7674a186a2e"
+          }
+        ],
+        [
+          "VOL NAV",
+          1,
+          "ARUN-CONN-TH_XH-4A-1",
+          "CON7",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C192885",
+            "Manufacturer": "BOOMELE(博穆精密)",
+            "Manufacturer Part": "XH-4A绿色",
+            "link": "",
+            "JLCPCB Part Class": "Extended Part",
+            "Contributor": "LCSC",
+            "spiceSymbolName": "ARUN-CONN-TH_XH-4A",
+            "puuid": "a9f9914111584a5883ff6c2788d4de9e",
+            "uuid": "6e4d485fa41a4b99bcfbc7674a186a2e"
+          }
+        ],
+        [
+          "VOL COM",
+          1,
+          "ARUN-CONN-TH_XH-4A-1",
+          "CON8",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C192885",
+            "Manufacturer": "BOOMELE(博穆精密)",
+            "Manufacturer Part": "XH-4A绿色",
+            "link": "",
+            "JLCPCB Part Class": "Extended Part",
+            "Contributor": "LCSC",
+            "spiceSymbolName": "ARUN-CONN-TH_XH-4A",
+            "puuid": "a9f9914111584a5883ff6c2788d4de9e",
+            "uuid": "6e4d485fa41a4b99bcfbc7674a186a2e"
+          }
+        ],
+        [
+          "Pan/Range",
+          2,
+          "ARUN-CONN-TH_XH-4A-1",
+          "CON9,CON10",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C192885",
+            "Manufacturer": "BOOMELE(博穆精密)",
+            "Manufacturer Part": "XH-4A绿色",
+            "link": "",
+            "JLCPCB Part Class": "Extended Part",
+            "Contributor": "LCSC",
+            "spiceSymbolName": "ARUN-CONN-TH_XH-4A",
+            "puuid": "a9f9914111584a5883ff6c2788d4de9e",
+            "uuid": "6e4d485fa41a4b99bcfbc7674a186a2e"
+          }
+        ],
+        [
+          "NAV Switch",
+          1,
+          "1X4 PIN",
+          "CON11",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C225501",
+            "Manufacturer": "Changjiang Connectors",
+            "Manufacturer Part": "A2541HWV-4P",
+            "Contributor": "LCSC",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "1X4PIN",
+            "puuid": "6c9eeea7dad847eda384894bd4f96183",
+            "uuid": "f6bb2f609c9345699e7145663412aaa5"
+          }
+        ],
+        [
+          "COM Switch",
+          1,
+          "1X4 PIN",
+          "CON12",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C225501",
+            "Manufacturer": "Changjiang Connectors",
+            "Manufacturer Part": "A2541HWV-4P",
+            "Contributor": "LCSC",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "1X4PIN",
+            "puuid": "6c9eeea7dad847eda384894bd4f96183",
+            "uuid": "f6bb2f609c9345699e7145663412aaa5"
+          }
+        ],
+        [
+          "Buttons Right",
+          1,
+          "CONN-TH_3P-P2.50_HC-XH-3A-G",
+          "CON13",
+          {
+            "Contributor": "Мэтт Милер",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5341202",
+            "Manufacturer": "HCTL(华灿天禄)",
+            "Manufacturer Part": "HC-XH-3A-G",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "HC-XH-3A-G",
+            "puuid": "73aa71122c5a4268afd622a60b498939",
+            "uuid": "1887914d3c8149949b568fc730189891"
+          }
+        ],
+        [
+          "Buttons Right",
+          1,
+          "ARUN-CONN-TH_XH-6A",
+          "CON14",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C722879",
+            "Manufacturer": "CAX",
+            "Manufacturer Part": "XH-6A",
+            "Contributor": "LCSC",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "ARUN-CONN-TH_XH-6A",
+            "puuid": "67862fb3be57440db5a560bdc370a513",
+            "uuid": "3af05cf9765943fb88ddcf4a2c9fd153"
+          }
+        ],
+        [
+          "Buttons Left",
+          1,
+          "CONN-TH_3P-P2.50_HC-XH-3A-G",
+          "CON15",
+          {
+            "Contributor": "Мэтт Милер",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5341202",
+            "Manufacturer": "HCTL(华灿天禄)",
+            "Manufacturer Part": "HC-XH-3A-G",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "HC-XH-3A-G",
+            "puuid": "73aa71122c5a4268afd622a60b498939",
+            "uuid": "1887914d3c8149949b568fc730189891"
+          }
+        ],
+        [
+          "Buttons Left",
+          2,
+          "ARUN-CONN-TH_XH-6A",
+          "CON16,CON17",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C722879",
+            "Manufacturer": "CAX",
+            "Manufacturer Part": "XH-6A",
+            "Contributor": "LCSC",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "ARUN-CONN-TH_XH-6A",
+            "puuid": "67862fb3be57440db5a560bdc370a513",
+            "uuid": "3af05cf9765943fb88ddcf4a2c9fd153"
+          }
+        ],
+        [
+          "Power LED Input",
+          1,
+          "ARUN-CONN-TH_XH-4A-1",
+          "CON18",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C192885",
+            "Manufacturer": "BOOMELE(博穆精密)",
+            "Manufacturer Part": "XH-4A绿色",
+            "link": "",
+            "JLCPCB Part Class": "Extended Part",
+            "Contributor": "LCSC",
+            "spiceSymbolName": "ARUN-CONN-TH_XH-4A",
+            "puuid": "a9f9914111584a5883ff6c2788d4de9e",
+            "uuid": "6e4d485fa41a4b99bcfbc7674a186a2e"
+          }
+        ],
+        [
+          "Power Led Output",
+          1,
+          "CONN-TH_2P-P2.50_HC-XH-2A-G",
+          "CON19",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C5341201",
+            "Manufacturer": "HCTL(华灿天禄)",
+            "Manufacturer Part": "HC-XH-2A-G",
+            "link": "https://atta.szlcsc.com/upload/public/pdf/source/20230105/4FFD2EFD3DA44AA828171A44400F3EDE.pdf",
+            "Contributor": "zafariqbal832159",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "HC-XH-2A-G",
+            "puuid": "e32269f0866f4b9fb0621bdf92f9ce05",
+            "uuid": "52c49a4c0ea146fda442cc90fc726b0a"
+          }
+        ],
+        [
+          "Buttons Bottom",
+          1,
+          "CONN-TH_3P-P2.50_HC-XH-3A-G",
+          "CON20",
+          {
+            "Contributor": "Мэтт Милер",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5341202",
+            "Manufacturer": "HCTL(华灿天禄)",
+            "Manufacturer Part": "HC-XH-3A-G",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "HC-XH-3A-G",
+            "puuid": "73aa71122c5a4268afd622a60b498939",
+            "uuid": "1887914d3c8149949b568fc730189891"
+          }
+        ],
+        [
+          "Buttons Bottom",
+          2,
+          "ARUN-CONN-TH_XH-6A",
+          "CON21,CON22",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C722879",
+            "Manufacturer": "CAX",
+            "Manufacturer Part": "XH-6A",
+            "Contributor": "LCSC",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "ARUN-CONN-TH_XH-6A",
+            "puuid": "67862fb3be57440db5a560bdc370a513",
+            "uuid": "3af05cf9765943fb88ddcf4a2c9fd153"
+          }
+        ],
+        [
+          "LEVEL-SHIFTER-4CH",
+          1,
+          "LEVEL-SHIFTER-4CH",
+          "G$1",
+          {
+            "Contributor": "Ex T",
+            "spiceSymbolName": "LEVEL-SHIFTER-4CH",
+            "Manufacturer Part": "",
+            "puuid": "df906d675c8549d9a699af31034016c7",
+            "uuid": "f18ec571e21c49f7806eacfa3d7f080d"
+          }
+        ],
+        [
+          "CD74HC4067",
+          3,
+          "CD74HC4067",
+          "P1,P2,P3",
+          {
+            "timeStamp": "1461490365",
+            "sourceId": "1T5FDZYC8",
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "andy vu",
+            "spiceSymbolName": "CD74HC4067",
+            "Manufacturer Part": "",
+            "puuid": "cbfa8c0b80924efbbe9871ca9fd3e00a",
+            "uuid": "d87e9527db484ea38238a0e7323abd64"
+          }
+        ],
+        [
+          "10K",
+          6,
+          "R_AXIAL-0.4",
+          "R1,R2,R3,R4,R5,R6",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_AXIAL-0.4_EU",
+            "Manufacturer Part": "",
+            "puuid": "5905db98cde4487fbb177070aa85bbe1",
+            "uuid": "f0bc163659d742bc8f021d00cdeb85b2"
+          }
+        ],
+        [
+          "ARDUINO MEGA 2560 PRO_2020",
+          1,
+          "ARDUINO MEGA 2560 PRO",
+          "U1",
+          {
+            "Manufacturer": "",
+            "Manufacturer Part": "Arduino Mega 2560 Pro Mini",
+            "Supplier Part": "",
+            "Supplier": "",
+            "link": "https://www.arduino.cc",
+            "Contributor": "sinivan003",
+            "spiceSymbolName": "ARDUINO MEGA 2560 PRO_2020",
+            "puuid": "9ee33c366d2e4da9818a19d564d6b59b",
+            "uuid": "569c806101d942d7a6fa08c5bffefa37"
+          }
+        ],
+        [
+          "ESP32 DEV",
+          1,
+          "ESP32_DEVKIT_MELIFE",
+          "U2",
+          {
+            "Manufacturer": "",
+            "Manufacturer Part": "ESP32",
+            "Supplier Part": "",
+            "Supplier": "",
+            "link": "https://www.amazon.com/gp/product/B07Q576VWZ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1",
+            "Contributor": "Alan",
+            "spiceSymbolName": "ESP32 DEV",
+            "puuid": "6536323e95f4478ea4a8d11399fdcae3",
+            "uuid": "00ae413dc0674845a1debf07ff47833c"
+          }
+        ]
+      ],
+      "updateTime": 1719155892,
+      "createTime": 1711817209,
+      "histories": [],
+      "created_at": "2024-03-30 17:46:49",
+      "updated_at": "2024-06-23 17:18:12"
+    },
+    {
+      "uuid": "069b65325db3e72ec6851e891660703a",
+      "puuid": "66b33248170e1654a5f6b72b2c70a5c8",
+      "title": "PCB_G1000_Base",
+      "filename": "PCB_G1000_Base.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "6c9eeea7dad847eda384894bd4f96183": 2,
+        "67862fb3be57440db5a560bdc370a513": 10,
+        "a9f9914111584a5883ff6c2788d4de9e": 6,
+        "73aa71122c5a4268afd622a60b498939": 3,
+        "cbfa8c0b80924efbbe9871ca9fd3e00a": 3,
+        "5905db98cde4487fbb177070aa85bbe1": 6,
+        "9ee33c366d2e4da9818a19d564d6b59b": 1,
+        "6536323e95f4478ea4a8d11399fdcae3": 1,
+        "e32269f0866f4b9fb0621bdf92f9ce05": 1
+      },
+      "BOM": [],
+      "updateTime": 1712058966,
+      "createTime": 1712049628,
+      "histories": [],
+      "created_at": "2024-04-02 11:20:28",
+      "updated_at": "2024-04-02 13:56:06"
+    }
+  ],
+  "sort": [],
+  "title": "G1000_Base",
+  "foldername": "G1000_Base",
+  "schfilename": "G1000_Base.json",
+  "schfilemtime": 1719155892277
+}

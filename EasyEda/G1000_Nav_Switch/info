@@ -1,0 +1,112 @@
+{
+  "uuid": "4da9a48dffc2e82a89ff35dc64ab7c3d",
+  "path": "Offline/G1000_Nav_Switch",
+  "name": "G1000_Nav_Switch",
+  "content": "",
+  "created_at": "2024-03-31 14:16:02",
+  "updated_at": "2024-04-02 09:24:35",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "4c25c727b408c514f88bee66595a19c8",
+      "title": "SCH_Nav_Switch",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f0bc163659d742bc8f021d00cdeb85b2": 1,
+        "8fde53ebf99946c295add89ba9542a24": 1,
+        "f6bb2f609c9345699e7145663412aaa5": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "to base",
+          1,
+          "1X4 PIN",
+          "CON1",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C225501",
+            "Manufacturer": "Changjiang Connectors",
+            "Manufacturer Part": "A2541HWV-4P",
+            "Contributor": "LCSC",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "1X4PIN",
+            "puuid": "6c9eeea7dad847eda384894bd4f96183",
+            "uuid": "f6bb2f609c9345699e7145663412aaa5"
+          }
+        ],
+        [
+          "220",
+          1,
+          "R_AXIAL-0.4",
+          "R1",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_AXIAL-0.4_EU",
+            "Manufacturer Part": "",
+            "puuid": "5905db98cde4487fbb177070aa85bbe1",
+            "uuid": "f0bc163659d742bc8f021d00cdeb85b2"
+          }
+        ],
+        [
+          "<->",
+          1,
+          "6X6_LED+PUSHBUTTON",
+          "U1",
+          {
+            "timeStamp": "1467803182",
+            "sourceId": "5viSsqoYV",
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "Aleix Ferrero",
+            "spiceSymbolName": "6X6_LED+PUSHBUTTON V2",
+            "Manufacturer Part": "",
+            "puuid": "4e638100ce1948159b5f2dd1e629d711",
+            "uuid": "8fde53ebf99946c295add89ba9542a24"
+          }
+        ]
+      ],
+      "updateTime": 1712042675,
+      "createTime": 1711885922,
+      "histories": [],
+      "created_at": "2024-03-31 13:52:02",
+      "updated_at": "2024-04-02 09:24:35"
+    },
+    {
+      "uuid": "be69ee39e9ea8ab3e8abfc1ba3792fd6",
+      "title": "PCB_G1000_Nav_Switch",
+      "filename": "PCB_G1000_Nav_Switch.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "4e638100ce1948159b5f2dd1e629d711": 1,
+        "6c9eeea7dad847eda384894bd4f96183": 1,
+        "5905db98cde4487fbb177070aa85bbe1": 1
+      },
+      "BOM": [],
+      "updateTime": 1711887698,
+      "createTime": 1711886343,
+      "histories": [],
+      "created_at": "2024-03-31 13:59:03",
+      "updated_at": "2024-03-31 14:21:38"
+    }
+  ],
+  "sort": [],
+  "title": "G1000_Nav_Switch",
+  "foldername": "G1000_Nav_Switch",
+  "schfilename": "G1000_Nav_Switch.json",
+  "schfilemtime": 1712042676002
+}

@@ -1,0 +1,631 @@
+{
+  "uuid": "496587d15acea0b6e3c48c5528115574",
+  "path": "Offline/G1000_Cessna_Main",
+  "name": "G1000_Cessna_Main",
+  "content": "",
+  "created_at": "2024-05-07 09:07:57",
+  "updated_at": "2024-05-07 16:25:39",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "e53e11fe0aa81d783f247d1da2aa6ec9",
+      "title": "G1000_Cessna_Main",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "569c806101d942d7a6fa08c5bffefa37": 1,
+        "7d79aaf5d79e4325be394c50a8755a73": 4,
+        "aabf47a75bf54650a957c7e4dff859c5": 2,
+        "6e4d485fa41a4b99bcfbc7674a186a2e": 7,
+        "1887914d3c8149949b568fc730189891": 5,
+        "52c49a4c0ea146fda442cc90fc726b0a": 8,
+        "1a832e632da34d928b83cd0497896515": 2,
+        "d87e9527db484ea38238a0e7323abd64": 3,
+        "ceb0625ad1084d598f7673f978de3571": 3,
+        "f0bc163659d742bc8f021d00cdeb85b2": 3,
+        "d702e8ceac2a4e56907588fbd8b3edef": 1,
+        "3af05cf9765943fb88ddcf4a2c9fd153": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "Audio2",
+          1,
+          "IDC-TH_12P-P2.54_BOOMELE-2X6P-2.54MM",
+          "CON1",
+          {
+            "Supplier": "LCSC",
+            "Manufacturer": "BOOMELE(博穆精密)",
+            "Manufacturer Part": "2.54-2*6P简牛",
+            "Supplier Part": "C9136",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "SOCKET HDR-IDC-2.54-2X6P",
+            "puuid": "a74ad15a041a485a9618cfb968dd749b",
+            "uuid": "7d79aaf5d79e4325be394c50a8755a73"
+          }
+        ],
+        [
+          "Audio1",
+          1,
+          "IDC-TH_12P-P2.54_BOOMELE-2X6P-2.54MM",
+          "CON2",
+          {
+            "Supplier": "LCSC",
+            "Manufacturer": "BOOMELE(博穆精密)",
+            "Manufacturer Part": "2.54-2*6P简牛",
+            "Supplier Part": "C9136",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "SOCKET HDR-IDC-2.54-2X6P",
+            "puuid": "a74ad15a041a485a9618cfb968dd749b",
+            "uuid": "7d79aaf5d79e4325be394c50a8755a73"
+          }
+        ],
+        [
+          "Audio3",
+          1,
+          "IDC-TH_12P-P2.54_BOOMELE-2X6P-2.54MM",
+          "CON3",
+          {
+            "Supplier": "LCSC",
+            "Manufacturer": "BOOMELE(博穆精密)",
+            "Manufacturer Part": "2.54-2*6P简牛",
+            "Supplier Part": "C9136",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "SOCKET HDR-IDC-2.54-2X6P",
+            "puuid": "a74ad15a041a485a9618cfb968dd749b",
+            "uuid": "7d79aaf5d79e4325be394c50a8755a73"
+          }
+        ],
+        [
+          "Audio4",
+          1,
+          "IDC-TH_12P-P2.54_BOOMELE-2X6P-2.54MM",
+          "CON4",
+          {
+            "Supplier": "LCSC",
+            "Manufacturer": "BOOMELE(博穆精密)",
+            "Manufacturer Part": "2.54-2*6P简牛",
+            "Supplier Part": "C9136",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "SOCKET HDR-IDC-2.54-2X6P",
+            "puuid": "a74ad15a041a485a9618cfb968dd749b",
+            "uuid": "7d79aaf5d79e4325be394c50a8755a73"
+          }
+        ],
+        [
+          "SwitchPanel1",
+          1,
+          "CONN-TH_16P-P2.54_KINGHELM_KH-2.54PH180-2X8P-L8.9",
+          "CON5",
+          {
+            "Contributor": "lcsc",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5157631",
+            "Manufacturer": "kinghelm(金航标)",
+            "Manufacturer Part": "KH-2.54PH180-2X8P-L8.9",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "KH-2.54PH180-2X8P-L8.9",
+            "puuid": "8c673ccfd9ec40f0bc2fe154a9d0a5be",
+            "uuid": "aabf47a75bf54650a957c7e4dff859c5"
+          }
+        ],
+        [
+          "SwitchPanel2",
+          1,
+          "CONN-TH_16P-P2.54_KINGHELM_KH-2.54PH180-2X8P-L8.9",
+          "CON6",
+          {
+            "Contributor": "lcsc",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5157631",
+            "Manufacturer": "kinghelm(金航标)",
+            "Manufacturer Part": "KH-2.54PH180-2X8P-L8.9",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "KH-2.54PH180-2X8P-L8.9",
+            "puuid": "8c673ccfd9ec40f0bc2fe154a9d0a5be",
+            "uuid": "aabf47a75bf54650a957c7e4dff859c5"
+          }
+        ],
+        [
+          "Audio Button",
+          1,
+          "CONN-TH_2P-P2.50_HC-XH-2A-G",
+          "CON7",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C5341201",
+            "Manufacturer": "HCTL(华灿天禄)",
+            "Manufacturer Part": "HC-XH-2A-G",
+            "link": "https://atta.szlcsc.com/upload/public/pdf/source/20230105/4FFD2EFD3DA44AA828171A44400F3EDE.pdf",
+            "Contributor": "zafariqbal832159",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "HC-XH-2A-G",
+            "puuid": "e32269f0866f4b9fb0621bdf92f9ce05",
+            "uuid": "52c49a4c0ea146fda442cc90fc726b0a"
+          }
+        ],
+        [
+          "Altimeter_Poti",
+          1,
+          "CONN-TH_3P-P2.50_HC-XH-3A-G",
+          "CON8",
+          {
+            "Contributor": "Мэтт Милер",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5341202",
+            "Manufacturer": "HCTL(华灿天禄)",
+            "Manufacturer Part": "HC-XH-3A-G",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "HC-XH-3A-G",
+            "puuid": "73aa71122c5a4268afd622a60b498939",
+            "uuid": "1887914d3c8149949b568fc730189891"
+          }
+        ],
+        [
+          "Flaps_Poti",
+          1,
+          "CONN-TH_3P-P2.50_HC-XH-3A-G",
+          "CON9",
+          {
+            "Contributor": "Мэтт Милер",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5341202",
+            "Manufacturer": "HCTL(华灿天禄)",
+            "Manufacturer Part": "HC-XH-3A-G",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "HC-XH-3A-G",
+            "puuid": "73aa71122c5a4268afd622a60b498939",
+            "uuid": "1887914d3c8149949b568fc730189891"
+          }
+        ],
+        [
+          "Attitude_Roll_Hall",
+          1,
+          "CONN-TH_3P-P2.50_HC-XH-3A-G",
+          "CON10",
+          {
+            "Contributor": "Мэтт Милер",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5341202",
+            "Manufacturer": "HCTL(华灿天禄)",
+            "Manufacturer Part": "HC-XH-3A-G",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "HC-XH-3A-G",
+            "puuid": "73aa71122c5a4268afd622a60b498939",
+            "uuid": "1887914d3c8149949b568fc730189891"
+          }
+        ],
+        [
+          "Opt",
+          1,
+          "ARUN-CONN-TH_XH-6A",
+          "CON11",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C722879",
+            "Manufacturer": "CAX",
+            "Manufacturer Part": "XH-6A",
+            "Contributor": "LCSC",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "ARUN-CONN-TH_XH-6A",
+            "puuid": "67862fb3be57440db5a560bdc370a513",
+            "uuid": "3af05cf9765943fb88ddcf4a2c9fd153"
+          }
+        ],
+        [
+          "Attitude_Pitch_Hall",
+          1,
+          "CONN-TH_3P-P2.50_HC-XH-3A-G",
+          "CON12",
+          {
+            "Contributor": "Мэтт Милер",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5341202",
+            "Manufacturer": "HCTL(华灿天禄)",
+            "Manufacturer Part": "HC-XH-3A-G",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "HC-XH-3A-G",
+            "puuid": "73aa71122c5a4268afd622a60b498939",
+            "uuid": "1887914d3c8149949b568fc730189891"
+          }
+        ],
+        [
+          "Audio_Stepper",
+          1,
+          "ARUN-CONN-TH_XH-4A-1",
+          "CON13",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C192885",
+            "Manufacturer": "BOOMELE(博穆精密)",
+            "Manufacturer Part": "XH-4A绿色",
+            "link": "",
+            "JLCPCB Part Class": "Extended Part",
+            "Contributor": "LCSC",
+            "spiceSymbolName": "ARUN-CONN-TH_XH-4A",
+            "puuid": "a9f9914111584a5883ff6c2788d4de9e",
+            "uuid": "6e4d485fa41a4b99bcfbc7674a186a2e"
+          }
+        ],
+        [
+          "Airspeed_Stepper",
+          1,
+          "ARUN-CONN-TH_XH-4A-1",
+          "CON14",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C192885",
+            "Manufacturer": "BOOMELE(博穆精密)",
+            "Manufacturer Part": "XH-4A绿色",
+            "link": "",
+            "JLCPCB Part Class": "Extended Part",
+            "Contributor": "LCSC",
+            "spiceSymbolName": "ARUN-CONN-TH_XH-4A",
+            "puuid": "a9f9914111584a5883ff6c2788d4de9e",
+            "uuid": "6e4d485fa41a4b99bcfbc7674a186a2e"
+          }
+        ],
+        [
+          "Attitude_Roll_Stepper",
+          1,
+          "ARUN-CONN-TH_XH-4A-1",
+          "CON15",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C192885",
+            "Manufacturer": "BOOMELE(博穆精密)",
+            "Manufacturer Part": "XH-4A绿色",
+            "link": "",
+            "JLCPCB Part Class": "Extended Part",
+            "Contributor": "LCSC",
+            "spiceSymbolName": "ARUN-CONN-TH_XH-4A",
+            "puuid": "a9f9914111584a5883ff6c2788d4de9e",
+            "uuid": "6e4d485fa41a4b99bcfbc7674a186a2e"
+          }
+        ],
+        [
+          "Attitude_Pitch_Stepper",
+          1,
+          "ARUN-CONN-TH_XH-4A-1",
+          "CON16",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C192885",
+            "Manufacturer": "BOOMELE(博穆精密)",
+            "Manufacturer Part": "XH-4A绿色",
+            "link": "",
+            "JLCPCB Part Class": "Extended Part",
+            "Contributor": "LCSC",
+            "spiceSymbolName": "ARUN-CONN-TH_XH-4A",
+            "puuid": "a9f9914111584a5883ff6c2788d4de9e",
+            "uuid": "6e4d485fa41a4b99bcfbc7674a186a2e"
+          }
+        ],
+        [
+          "Altimeter_Stepper_TT",
+          1,
+          "ARUN-CONN-TH_XH-4A-1",
+          "CON17",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C192885",
+            "Manufacturer": "BOOMELE(博穆精密)",
+            "Manufacturer Part": "XH-4A绿色",
+            "link": "",
+            "JLCPCB Part Class": "Extended Part",
+            "Contributor": "LCSC",
+            "spiceSymbolName": "ARUN-CONN-TH_XH-4A",
+            "puuid": "a9f9914111584a5883ff6c2788d4de9e",
+            "uuid": "6e4d485fa41a4b99bcfbc7674a186a2e"
+          }
+        ],
+        [
+          "Altimeter_Stepper_T",
+          1,
+          "ARUN-CONN-TH_XH-4A-1",
+          "CON18",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C192885",
+            "Manufacturer": "BOOMELE(博穆精密)",
+            "Manufacturer Part": "XH-4A绿色",
+            "link": "",
+            "JLCPCB Part Class": "Extended Part",
+            "Contributor": "LCSC",
+            "spiceSymbolName": "ARUN-CONN-TH_XH-4A",
+            "puuid": "a9f9914111584a5883ff6c2788d4de9e",
+            "uuid": "6e4d485fa41a4b99bcfbc7674a186a2e"
+          }
+        ],
+        [
+          "Altimeter_Stepper_H",
+          1,
+          "ARUN-CONN-TH_XH-4A-1",
+          "CON19",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C192885",
+            "Manufacturer": "BOOMELE(博穆精密)",
+            "Manufacturer Part": "XH-4A绿色",
+            "link": "",
+            "JLCPCB Part Class": "Extended Part",
+            "Contributor": "LCSC",
+            "spiceSymbolName": "ARUN-CONN-TH_XH-4A",
+            "puuid": "a9f9914111584a5883ff6c2788d4de9e",
+            "uuid": "6e4d485fa41a4b99bcfbc7674a186a2e"
+          }
+        ],
+        [
+          "Flaps_Servo",
+          1,
+          "CONN-TH_3P-P2.50_HC-XH-3A-G",
+          "CON20",
+          {
+            "Contributor": "Мэтт Милер",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5341202",
+            "Manufacturer": "HCTL(华灿天禄)",
+            "Manufacturer Part": "HC-XH-3A-G",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "HC-XH-3A-G",
+            "puuid": "73aa71122c5a4268afd622a60b498939",
+            "uuid": "1887914d3c8149949b568fc730189891"
+          }
+        ],
+        [
+          "Altimeter_Power_TT",
+          1,
+          "CONN-TH_2P-P2.50_HC-XH-2A-G",
+          "CON21",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C5341201",
+            "Manufacturer": "HCTL(华灿天禄)",
+            "Manufacturer Part": "HC-XH-2A-G",
+            "link": "https://atta.szlcsc.com/upload/public/pdf/source/20230105/4FFD2EFD3DA44AA828171A44400F3EDE.pdf",
+            "Contributor": "zafariqbal832159",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "HC-XH-2A-G",
+            "puuid": "e32269f0866f4b9fb0621bdf92f9ce05",
+            "uuid": "52c49a4c0ea146fda442cc90fc726b0a"
+          }
+        ],
+        [
+          "Altimeter_Power_T",
+          1,
+          "CONN-TH_2P-P2.50_HC-XH-2A-G",
+          "CON22",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C5341201",
+            "Manufacturer": "HCTL(华灿天禄)",
+            "Manufacturer Part": "HC-XH-2A-G",
+            "link": "https://atta.szlcsc.com/upload/public/pdf/source/20230105/4FFD2EFD3DA44AA828171A44400F3EDE.pdf",
+            "Contributor": "zafariqbal832159",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "HC-XH-2A-G",
+            "puuid": "e32269f0866f4b9fb0621bdf92f9ce05",
+            "uuid": "52c49a4c0ea146fda442cc90fc726b0a"
+          }
+        ],
+        [
+          "Altimeter_Power_H",
+          1,
+          "CONN-TH_2P-P2.50_HC-XH-2A-G",
+          "CON23",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C5341201",
+            "Manufacturer": "HCTL(华灿天禄)",
+            "Manufacturer Part": "HC-XH-2A-G",
+            "link": "https://atta.szlcsc.com/upload/public/pdf/source/20230105/4FFD2EFD3DA44AA828171A44400F3EDE.pdf",
+            "Contributor": "zafariqbal832159",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "HC-XH-2A-G",
+            "puuid": "e32269f0866f4b9fb0621bdf92f9ce05",
+            "uuid": "52c49a4c0ea146fda442cc90fc726b0a"
+          }
+        ],
+        [
+          "Attitude_Roll_Power",
+          1,
+          "CONN-TH_2P-P2.50_HC-XH-2A-G",
+          "CON24",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C5341201",
+            "Manufacturer": "HCTL(华灿天禄)",
+            "Manufacturer Part": "HC-XH-2A-G",
+            "link": "https://atta.szlcsc.com/upload/public/pdf/source/20230105/4FFD2EFD3DA44AA828171A44400F3EDE.pdf",
+            "Contributor": "zafariqbal832159",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "HC-XH-2A-G",
+            "puuid": "e32269f0866f4b9fb0621bdf92f9ce05",
+            "uuid": "52c49a4c0ea146fda442cc90fc726b0a"
+          }
+        ],
+        [
+          "Attitide_Pitch_Power",
+          1,
+          "CONN-TH_2P-P2.50_HC-XH-2A-G",
+          "CON25",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C5341201",
+            "Manufacturer": "HCTL(华灿天禄)",
+            "Manufacturer Part": "HC-XH-2A-G",
+            "link": "https://atta.szlcsc.com/upload/public/pdf/source/20230105/4FFD2EFD3DA44AA828171A44400F3EDE.pdf",
+            "Contributor": "zafariqbal832159",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "HC-XH-2A-G",
+            "puuid": "e32269f0866f4b9fb0621bdf92f9ce05",
+            "uuid": "52c49a4c0ea146fda442cc90fc726b0a"
+          }
+        ],
+        [
+          "LED Out",
+          2,
+          "CONN-TH_2P-P2.50_HC-XH-2A-G",
+          "CON26,CON27",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C5341201",
+            "Manufacturer": "HCTL(华灿天禄)",
+            "Manufacturer Part": "HC-XH-2A-G",
+            "link": "https://atta.szlcsc.com/upload/public/pdf/source/20230105/4FFD2EFD3DA44AA828171A44400F3EDE.pdf",
+            "Contributor": "zafariqbal832159",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "HC-XH-2A-G",
+            "puuid": "e32269f0866f4b9fb0621bdf92f9ce05",
+            "uuid": "52c49a4c0ea146fda442cc90fc726b0a"
+          }
+        ],
+        [
+          "USB Buchse",
+          2,
+          "DIP-1X5P-2.54MM-M",
+          "CON28,CON29",
+          {
+            "Supplier Part": "C124379",
+            "Supplier": "LCSC",
+            "Manufacturer": "Ckmtw",
+            "Manufacturer Part": "210S-1*5P L=11.6MMGold-plated black",
+            "Contributor": "ee21resch01009",
+            "spiceSymbolName": "Battery Pack Connector",
+            "puuid": "73dc67ff24ce44b9b17ed3f17f7d9b99",
+            "uuid": "1a832e632da34d928b83cd0497896515"
+          }
+        ],
+        [
+          "Opt2",
+          1,
+          "CONN-TH_KINGHELM_KH-2FH-1X14P-H4.3",
+          "H3",
+          {
+            "Contributor": "LCSC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2938406",
+            "Manufacturer": "kinghelm(金航标)",
+            "Manufacturer Part": "KH-1.27PH180-1X14P-L7.2",
+            "spiceSymbolName": "KH-1.27PH180-1X14P-L7.2",
+            "puuid": "478d492ca694493b97a2abdb8ed36c8a",
+            "uuid": "d702e8ceac2a4e56907588fbd8b3edef"
+          }
+        ],
+        [
+          "ARDUINO MEGA 2560 PRO",
+          1,
+          "ARDUINO MEGA 2560 PRO",
+          "IC1",
+          {
+            "Manufacturer": "",
+            "Manufacturer Part": "Arduino Mega 2560 Pro Mini",
+            "Supplier Part": "",
+            "Supplier": "",
+            "link": "https://www.arduino.cc",
+            "Contributor": "sinivan003",
+            "spiceSymbolName": "ARDUINO MEGA 2560 PRO_2020",
+            "puuid": "9ee33c366d2e4da9818a19d564d6b59b",
+            "uuid": "569c806101d942d7a6fa08c5bffefa37"
+          }
+        ],
+        [
+          "74HC595",
+          3,
+          "SN74HC595N_DIP",
+          "IC2,IC3,IC4",
+          {
+            "description": "8-bit Shift Register  Latch with 3-State Outputs",
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "hoangvanthanh1629",
+            "spiceSymbolName": "SN74HC595N_DIP",
+            "Manufacturer Part": "",
+            "puuid": "0abc7b1fe1194e5f9412f018fec3cc2e",
+            "uuid": "ceb0625ad1084d598f7673f978de3571"
+          }
+        ],
+        [
+          "74HC4067",
+          3,
+          "CD74HC4067",
+          "IC5,IC6,IC7",
+          {
+            "timeStamp": "1461490365",
+            "sourceId": "1T5FDZYC8",
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "andy vu",
+            "spiceSymbolName": "CD74HC4067",
+            "Manufacturer Part": "",
+            "puuid": "cbfa8c0b80924efbbe9871ca9fd3e00a",
+            "uuid": "d87e9527db484ea38238a0e7323abd64"
+          }
+        ],
+        [
+          "10K",
+          3,
+          "R_AXIAL-0.4",
+          "R1,R2,R3",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_AXIAL-0.4_EU",
+            "Manufacturer Part": "",
+            "puuid": "5905db98cde4487fbb177070aa85bbe1",
+            "uuid": "f0bc163659d742bc8f021d00cdeb85b2"
+          }
+        ]
+      ],
+      "updateTime": 1715091939,
+      "createTime": 1715065677,
+      "histories": [],
+      "created_at": "2024-05-07 09:07:57",
+      "updated_at": "2024-05-07 16:25:39"
+    },
+    {
+      "uuid": "0adb27da775857438acbe302a37261a9",
+      "puuid": "496587d15acea0b6e3c48c5528115574",
+      "title": "PCB_G1000_Cessna_Main",
+      "filename": "PCB_G1000_Cessna_Main.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "a74ad15a041a485a9618cfb968dd749b": 4,
+        "8c673ccfd9ec40f0bc2fe154a9d0a5be": 2,
+        "e32269f0866f4b9fb0621bdf92f9ce05": 8,
+        "73aa71122c5a4268afd622a60b498939": 5,
+        "67862fb3be57440db5a560bdc370a513": 1,
+        "a9f9914111584a5883ff6c2788d4de9e": 7,
+        "73dc67ff24ce44b9b17ed3f17f7d9b99": 2,
+        "9ee33c366d2e4da9818a19d564d6b59b": 1,
+        "0abc7b1fe1194e5f9412f018fec3cc2e": 3,
+        "cbfa8c0b80924efbbe9871ca9fd3e00a": 3,
+        "5905db98cde4487fbb177070aa85bbe1": 3,
+        "478d492ca694493b97a2abdb8ed36c8a": 1
+      },
+      "BOM": [],
+      "updateTime": 1715086259,
+      "createTime": 1715083686,
+      "histories": [],
+      "created_at": "2024-05-07 14:08:06",
+      "updated_at": "2024-05-07 14:50:59"
+    }
+  ],
+  "sort": [],
+  "title": "G1000_Cessna_Main",
+  "foldername": "G1000_Cessna_Main",
+  "schfilename": "G1000_Cessna_Main.json",
+  "schfilemtime": 1715091939503
+}

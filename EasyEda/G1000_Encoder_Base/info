@@ -1,0 +1,96 @@
+{
+  "uuid": "d8f6b615cf06ce5f5988859513f4ad61",
+  "path": "Offline/G1000_Encoder_Base",
+  "name": "G1000_Encoder_Base",
+  "content": "",
+  "created_at": "2024-03-31 14:24:04",
+  "updated_at": "2024-04-01 19:21:40",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "137d46044b6f1da28c47bf12406de112",
+      "title": "SCH_Encoder_Base",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "65aa41f8479c4a93af25d7efc90d3d6b": 1,
+        "6e4d485fa41a4b99bcfbc7674a186a2e": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "to Base",
+          1,
+          "ARUN-CONN-TH_XH-4A-1",
+          "CON1",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C192885",
+            "Manufacturer": "BOOMELE(博穆精密)",
+            "Manufacturer Part": "XH-4A绿色",
+            "link": "",
+            "JLCPCB Part Class": "Extended Part",
+            "Contributor": "LCSC",
+            "spiceSymbolName": "ARUN-CONN-TH_XH-4A",
+            "puuid": "a9f9914111584a5883ff6c2788d4de9e",
+            "uuid": "6e4d485fa41a4b99bcfbc7674a186a2e"
+          }
+        ],
+        [
+          "Encoder",
+          1,
+          "BOURNS_PEC11R-4XXXF-SXXXX",
+          "EN1",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C143789",
+            "Manufacturer": "BOURNS",
+            "Manufacturer Part": "PEC11R-4015F-S0024",
+            "Contributor": "Yarik_UA",
+            "spiceSymbolName": "PEC11R-4015F-S0024",
+            "puuid": "cf8d81a4e6264e28bb8d8e0bd3638adc",
+            "uuid": "65aa41f8479c4a93af25d7efc90d3d6b"
+          }
+        ]
+      ],
+      "updateTime": 1711992100,
+      "createTime": 1711887844,
+      "histories": [],
+      "created_at": "2024-03-31 14:24:04",
+      "updated_at": "2024-04-01 19:21:40"
+    },
+    {
+      "uuid": "d9db6f9ed64fa36cebca6eadb0f031ce",
+      "puuid": "d8f6b615cf06ce5f5988859513f4ad61",
+      "title": "PCB_G1000_Encoder_Base",
+      "filename": "PCB_G1000_Encoder_Base.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "cf8d81a4e6264e28bb8d8e0bd3638adc": 1,
+        "a9f9914111584a5883ff6c2788d4de9e": 1
+      },
+      "BOM": [],
+      "updateTime": 1711888276,
+      "createTime": 1711888188,
+      "histories": [],
+      "created_at": "2024-03-31 14:29:48",
+      "updated_at": "2024-03-31 14:31:16"
+    }
+  ],
+  "sort": [],
+  "title": "G1000_Encoder_Base",
+  "foldername": "G1000_Encoder_Base",
+  "schfilename": "G1000_Encoder_Base.json",
+  "schfilemtime": 1711992100648
+}

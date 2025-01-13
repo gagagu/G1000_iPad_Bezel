@@ -1,0 +1,114 @@
+{
+  "uuid": "33b33e780b19dd4b8e62f3078fc4877e",
+  "path": "Offline/G1000_Dual_Encoder_Base",
+  "name": "G1000_Dual_Encoder_Base",
+  "content": "",
+  "created_at": "2024-03-30 17:26:41",
+  "updated_at": "2024-04-01 19:19:56",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "e38e87e7622f4da51bffab0abc1d30a0",
+      "title": "SCH_Dual_Encoder_Base",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "65aa41f8479c4a93af25d7efc90d3d6b": 2,
+        "3af05cf9765943fb88ddcf4a2c9fd153": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "to Base",
+          1,
+          "ARUN-CONN-TH_XH-6A",
+          "CON1",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C722879",
+            "Manufacturer": "CAX",
+            "Manufacturer Part": "XH-6A",
+            "Contributor": "LCSC",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "ARUN-CONN-TH_XH-6A",
+            "puuid": "67862fb3be57440db5a560bdc370a513",
+            "uuid": "3af05cf9765943fb88ddcf4a2c9fd153"
+          }
+        ],
+        [
+          "Encoder Front",
+          1,
+          "BOURNS_PEC11R-4XXXF-SXXXX",
+          "EN1",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C143789",
+            "Manufacturer": "BOURNS",
+            "Manufacturer Part": "PEC11R-4015F-S0024",
+            "Contributor": "Yarik_UA",
+            "spiceSymbolName": "PEC11R-4015F-S0024",
+            "puuid": "cf8d81a4e6264e28bb8d8e0bd3638adc",
+            "uuid": "65aa41f8479c4a93af25d7efc90d3d6b"
+          }
+        ],
+        [
+          "Encoder Back",
+          1,
+          "BOURNS_PEC11R-4XXXF-SXXXX",
+          "EN2",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C143789",
+            "Manufacturer": "BOURNS",
+            "Manufacturer Part": "PEC11R-4015F-S0024",
+            "Contributor": "Yarik_UA",
+            "spiceSymbolName": "PEC11R-4015F-S0024",
+            "puuid": "cf8d81a4e6264e28bb8d8e0bd3638adc",
+            "uuid": "65aa41f8479c4a93af25d7efc90d3d6b"
+          }
+        ]
+      ],
+      "updateTime": 1711991996,
+      "createTime": 1711816001,
+      "histories": [],
+      "created_at": "2024-03-30 17:26:41",
+      "updated_at": "2024-04-01 19:19:56"
+    },
+    {
+      "uuid": "047e59343e92c7f677ee3d000fad85ad",
+      "puuid": "33b33e780b19dd4b8e62f3078fc4877e",
+      "title": "PCB_G1000_Dual_Encoder_Base",
+      "filename": "PCB_G1000_Dual_Encoder_Base.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "67862fb3be57440db5a560bdc370a513": 1,
+        "cf8d81a4e6264e28bb8d8e0bd3638adc": 2
+      },
+      "BOM": [],
+      "updateTime": 1711816949,
+      "createTime": 1711816445,
+      "histories": [],
+      "created_at": "2024-03-30 17:34:05",
+      "updated_at": "2024-03-30 17:42:29"
+    }
+  ],
+  "sort": [
+    "dddceba711e962cc9ae48dd138d4682e",
+    "3f92e27ae910fa5426b3878a31a5ea10"
+  ],
+  "title": "G1000_Dual_Encoder_Base",
+  "foldername": "G1000_Dual_Encoder_Base",
+  "schfilename": "G1000_Dual_Encoder_Base.json",
+  "schfilemtime": 1711991996683
+}

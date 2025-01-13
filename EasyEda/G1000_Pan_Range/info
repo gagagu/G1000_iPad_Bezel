@@ -1,0 +1,115 @@
+{
+  "uuid": "51d22aa15d97195b5bc7721ab56e00ad",
+  "path": "Offline/G1000_Pan_Range",
+  "name": "G1000_Pan_Range",
+  "content": "",
+  "created_at": "2024-03-31 14:39:37",
+  "updated_at": "2024-04-02 09:23:39",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "190d8dc571c2454171646341aaff5235",
+      "title": "SCH_Pan_Range",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "6e4d485fa41a4b99bcfbc7674a186a2e": 2,
+        "65aa41f8479c4a93af25d7efc90d3d6b": 1,
+        "d5d4dbbe9e124e3297442681d7e3895c": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "1x5",
+          1,
+          "1X5PIN",
+          "4XBUTTONS",
+          {
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "Supplier Part": "",
+            "Supplier": "",
+            "link": "",
+            "Contributor": "cmacarthur",
+            "spiceSymbolName": "1x5",
+            "puuid": "f4edddfa07214046b865875e2a1dc8fd",
+            "uuid": "d5d4dbbe9e124e3297442681d7e3895c"
+          }
+        ],
+        [
+          "to Base",
+          2,
+          "ARUN-CONN-TH_XH-4A-1",
+          "CON1,CON2",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C192885",
+            "Manufacturer": "BOOMELE(博穆精密)",
+            "Manufacturer Part": "XH-4A绿色",
+            "link": "",
+            "JLCPCB Part Class": "Extended Part",
+            "Contributor": "LCSC",
+            "spiceSymbolName": "ARUN-CONN-TH_XH-4A",
+            "puuid": "a9f9914111584a5883ff6c2788d4de9e",
+            "uuid": "6e4d485fa41a4b99bcfbc7674a186a2e"
+          }
+        ],
+        [
+          "Encoder",
+          1,
+          "BOURNS_PEC11R-4XXXF-SXXXX",
+          "EN1",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C143789",
+            "Manufacturer": "BOURNS",
+            "Manufacturer Part": "PEC11R-4015F-S0024",
+            "Contributor": "Yarik_UA",
+            "spiceSymbolName": "PEC11R-4015F-S0024",
+            "puuid": "cf8d81a4e6264e28bb8d8e0bd3638adc",
+            "uuid": "65aa41f8479c4a93af25d7efc90d3d6b"
+          }
+        ]
+      ],
+      "updateTime": 1712042619,
+      "createTime": 1711888777,
+      "histories": [],
+      "created_at": "2024-03-31 14:39:37",
+      "updated_at": "2024-04-02 09:23:39"
+    },
+    {
+      "uuid": "24bfbafbf5879ceec465ffae8cb57be2",
+      "puuid": "51d22aa15d97195b5bc7721ab56e00ad",
+      "title": "PCB_G1000_Pan_Range",
+      "filename": "PCB_G1000_Pan_Range.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f4edddfa07214046b865875e2a1dc8fd": 1,
+        "a9f9914111584a5883ff6c2788d4de9e": 2,
+        "cf8d81a4e6264e28bb8d8e0bd3638adc": 1
+      },
+      "BOM": [],
+      "updateTime": 1711889142,
+      "createTime": 1711889085,
+      "histories": [],
+      "created_at": "2024-03-31 14:44:45",
+      "updated_at": "2024-03-31 14:45:42"
+    }
+  ],
+  "sort": [],
+  "title": "G1000_Pan_Range",
+  "foldername": "G1000_Pan_Range",
+  "schfilename": "G1000_Pan_Range.json",
+  "schfilemtime": 1712042619557
+}

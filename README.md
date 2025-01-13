@@ -17,6 +17,8 @@ G1000 Pan Zoom switch by FlightSimMaker on Thingiverse:
 G1000 Knobs and Dual Rotary Encoder by FlightSimMaker on Thingiverse: 
 (https://www.thingiverse.com/thing:4373531]
 
+## Discord
+You are welcome to join my Discord to get Info and support, [here](https://discord.gg/zrYUcJWu7F)
 
 # Gallery
 
